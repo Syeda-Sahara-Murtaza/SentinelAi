@@ -1,0 +1,12 @@
+{
+  "project": "Sentinel AI",
+  "source_commit": "4bbc052b213b3be487254c1c45f5414969a6ef06",
+  "source_version": 2,
+  "exported_at": "2026-10-15",
+  "runtime": "ChatGPT Sites / Vinext / Cloudflare Workers",
+  "notes": [
+    "Application code matches the published source commit.",
+    "README, environment templates, clean-checkout type declarations, and export metadata are packaging additions.",
+    "Build caches, installed dependencies, runtime secrets, Git credentials and account data are not included."
+  ]
+}

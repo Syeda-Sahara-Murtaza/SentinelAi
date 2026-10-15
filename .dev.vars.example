@@ -1,0 +1,3 @@
+# For local Cloudflare Worker secrets. Copy to .dev.vars and keep it private.
+GROQ_API_KEY=
+GROQ_MODEL=openai/gpt-oss-120b

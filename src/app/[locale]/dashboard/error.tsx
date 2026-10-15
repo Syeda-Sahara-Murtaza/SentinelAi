@@ -1,0 +1,2 @@
+"use client";
+export default function DashboardError({ reset }: { reset: () => void }) { return <div className="sentinel-card mx-auto max-w-xl space-y-4" role="alert"><h1 className="text-xl font-semibold">This screen could not load.</h1><p className="text-sm text-text-secondary">Your saved scans have not been deleted. Try loading this screen again.</p><button className="sentinel-btn-primary" onClick={reset}>Try again</button></div>; }
